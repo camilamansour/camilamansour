@@ -1,6 +1,6 @@
 ## Hello, I'm Camila Mansour 👋
 
-![imagem desenvolvedor web](https://www.shutterstock.com/image-vector/web-development-coding-programming-responsive-layout-1449924503)
+![desenvolvedor web](https://pt.vecteezy.com/arte-vetorial/523378-desenvolvimento-web-design-de-aplicacao-codificacao-e-programacao-no-conceito-de-laptop-e-smartphone-com-linguagem-de-programacao-e-codigo-de-programa-e-layout-no-vetor-de-tela)
 
 
 <!--
