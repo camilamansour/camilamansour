@@ -1,6 +1,7 @@
 ## Hello, I'm Camila Mansour 👋
 
 
+![55f27c2be0cb8c6b3f24352bc1cb45a7](https://github.com/camilamansour/camilamansour/assets/166460205/9393d067-3c89-4b81-9860-cdd03f896e93)
 
 
 <!--
