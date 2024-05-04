@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Camila Mansour 👋
+<center><h2>Hello, I'm Camila Mansour</h2></center>
+
 
 <!--
 **camilamansour/camilamansour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
