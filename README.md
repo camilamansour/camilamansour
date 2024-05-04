@@ -7,26 +7,24 @@
 📫 https://www.linkedin.com/in/camila-mansour-echeverria-8b795883/ </br>
 -----------
 ### Minhas Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px" />
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px" />
+</p>
       
 ------------
 | Cursos | Certificados |
 | ------ | ------------ |
-| | [Certificado] 
-
+| Príncipios do Git e Github | [Certificado](https://www.dio.me/certificate/PSGZWMJX/share)|
+| Introdução ao HTML na Prática | [Certificado](https://www.dio.me/certificate/L8PRH8QD/share) |
+| Green Software Development - English | [Certificado](https://www.dio.me/certificate/RU61Q2CO/share)
+| Como Ingressar no Futuro Agora Mesmo com ChatGPT | [Certificado](https://www.dio.me/certificate/DMQOGDRB/share) |
           
+![Camila Mansour GitHub stats](https://github-readme-stats.vercel.app/api?username=camilamansour&theme=radical)
+<img loading="lazy" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilamansour&layout=compact&langs_count=7&theme=dracula"/>
 
-<!--
-**camilamansour/camilamansour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
