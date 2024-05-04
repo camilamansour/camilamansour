@@ -4,7 +4,7 @@
 ------------
 🌟 Olá, me chamo Camila Mansour Echeverria!</br>
 💬 Sou Desenvoldedora Full Stack em fase de transição de carreira.</br>
-📫 [Acesse o meu linkedin]https://www.linkedin.com/in/camila-mansour-echeverria-8b795883/ </br>
+📫 ![Acesse o meu linkedin] https://www.linkedin.com/in/camila-mansour-echeverria-8b795883/ </br>
 -----------
 ### Minhas Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" width="100px">
