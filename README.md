@@ -1,8 +1,12 @@
 ## Hello, I'm Camila Mansour 👋
 
-
-![55f27c2be0cb8c6b3f24352bc1cb45a7](https://github.com/camilamansour/camilamansour/assets/166460205/9393d067-3c89-4b81-9860-cdd03f896e93)
-
+![Confira-a-importancia-de-ter-um-site-otimizado-para-mobile](https://github.com/camilamansour/camilamansour/assets/166460205/47772b09-ab74-48c2-911f-46e77b466db8)
+------------
+Olá, me chamo Camila Mansour Echeverria
+Sou Desenvoldedora Full Stack
+------------
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
+          
 
 <!--
 **camilamansour/camilamansour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
